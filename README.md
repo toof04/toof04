@@ -19,9 +19,9 @@ Hi there, I am Kartik Singh - junior CSE student in Vellore Institute of Technol
 <img align="left" alt="UE5" height="40px" style="padding-right:10px;padding-left:10px;" src="https://user-images.githubusercontent.com/96460163/232307156-44f6f19c-85d0-4dc8-ae9f-df3b3309a804.png"/>
 <img align="left" alt="MongoDB" height="40px" style="padding-right:10px;padding-left:10px;" src="https://user-images.githubusercontent.com/96460163/232307415-be0eaba5-062d-4584-b4d7-3821d384c7df.png"/>
 <img align="left" alt="Express JS" height="40px" style="padding-right:10px;padding-left:10px;" src="https://user-images.githubusercontent.com/96460163/232307483-899a5473-57f0-4bf4-b60c-bd5b0e19c50e.png"/>
-<img align="left" alt="REACT" height="40px" style="padding-right:10px;padding-left:10px;" src="https://user-images.githubusercontent.com/96460163/232305928-e49f5059-3dcb-4375-80d2-686a19279138.png"/><br><br><br>
+<img align="left" alt="REACT" height="40px" style="padding-right:10px;padding-left:10px;" src="https://user-images.githubusercontent.com/96460163/232305928-e49f5059-3dcb-4375-80d2-686a19279138.png"/>
 <img align="left" alt="NodeJS" height="40px" style="padding-right:10px;padding-left:10px;" src="https://user-images.githubusercontent.com/96460163/232307518-61331d8f-45c7-4eba-b22d-5380958a5d04.png"/>
-
+<br><br><br>
 
 <img align="left" alt="HTML JS CSS" height="40px" style="padding-right:10px;padding-left:10px;" src="https://user-images.githubusercontent.com/96460163/232305956-73c2dc48-3c72-46bd-a1ab-89d782d92560.png"/>
 <img align="left" alt="PHP" height="40px" style="padding-right:10px;padding-left:10px;" src="https://user-images.githubusercontent.com/96460163/232305971-b6fdb0ef-62be-4ed9-a6cf-3e79b497739a.png"/>
