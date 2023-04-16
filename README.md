@@ -7,4 +7,4 @@ Hi there, I am Kartik Singh - Prefinal year CSE student in Vellore Institute of 
     -Linkedin -  linkedin.com/in/kartik-singh-766279246/
     -Gmail    -  kartiksingh0412@gmail.com
     
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toof04)](https://github.com/anuraghazra/github-readme-stats)
