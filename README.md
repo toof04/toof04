@@ -27,7 +27,10 @@ Hi there, I am Kartik Singh - Prefinal year CSE student in Vellore Institute of 
 <img align="left" alt="PHP" height="50px" style="padding-right:10px;padding-left:10px;" src="https://user-images.githubusercontent.com/96460163/232305971-b6fdb0ef-62be-4ed9-a6cf-3e79b497739a.png"/>
 <img align="left" alt="mysql" height="50px" style="padding-right:10px;padding-left:10px;" src="https://user-images.githubusercontent.com/96460163/232305999-6137620f-acc8-403b-b543-d03ce4e6083c.png"/>
 <img align="left" alt="xampp" height="50px" style="padding-right:10px;padding-left:10px;" src="https://user-images.githubusercontent.com/96460163/232306018-bfbd5877-33e7-4c10-aa42-7cf5e2b25be5.png"/>
+<br><br><br>
+<br><br><br>
+<h2>📈 Statistics </h2>
 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=toof04&show_icons=true&theme=panda" />
 
-
-
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toof04&layout=compact" />
