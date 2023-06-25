@@ -6,7 +6,7 @@ Hi there, I am Kartik Singh - junior CSE student in Vellore Institute of Technol
 - 🌱 Currently learning blender and DSA,
 - 👯 I’m looking to collaborate on my UE5 game - StretchNob.
 - 📫 How to reach me: 
-   <ul> <li>Linkedin -  <a href = "linkedin.com/in/kartik-singh-766279246/"><img src = "https://user-images.githubusercontent.com/96460163/232307971-066c7790-8bbc-4fa9-b36e-0208361e4233.png" height = "20px" style = "padding-right : 10px; padding-left:10px;"/> </a>
+   <ul> <li>Linkedin -  <a href = "linkedin.com/in/kartik-singh-766279246/" target = "_blank"><img src = "https://user-images.githubusercontent.com/96460163/232307971-066c7790-8bbc-4fa9-b36e-0208361e4233.png" height = "20px" style = "padding-right : 10px; padding-left:10px;"/> </a>
     <li>Gmail    -  <a href = "kartiksingh0412@gmail.com"><img src = "https://user-images.githubusercontent.com/96460163/232307823-da8e6ba1-f4f2-4800-a351-eda94bbdeba6.png" height = "20px" style = "padding-right : 10px; padding-left:10px;"/> </a>
 
     </ul>
