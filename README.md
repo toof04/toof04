@@ -1,6 +1,6 @@
 <h2>👋Introduction</h2>
 
-Hi there, I am Kartik Singh - junior CSE student in Vellore Institute of Technology 
+Hi there, I am Kartik Singh - CSE student at Vellore Institute of Technology 
 
 - 🔭 Working on Unreal Engine 5 based endless runner - StretchNob.
 - 🌱 Currently learning blender and DSA,
