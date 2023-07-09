@@ -1,4 +1,4 @@
-<h2>👋Introduction</h2>
+<h2>👋 Introduction</h2>
 
 Hi there, I am Kartik Singh - CSE student at Vellore Institute of Technology 
 
