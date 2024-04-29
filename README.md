@@ -1,5 +1,4 @@
 <h2>👋 Introduction</h2>
-https://colab.research.google.com/drive/1Q6TVr2H1z-rDeyTS2tbSTZcgnHZVqFac?usp=sharing#scrollTo=_2lskGkXT7eU 
 Hi there, I am Kartik Singh - CSE student at Vellore Institute of Technology 
 
 - 🔭 Working on Unreal Engine 5 based endless runner - StretchNob.
@@ -8,7 +7,7 @@ Hi there, I am Kartik Singh - CSE student at Vellore Institute of Technology
 - 📫 How to reach me: 
    <ul> <li>Linkedin -  <a href = "linkedin.com/in/kartik-singh-766279246/" target = "_blank"><img src = "https://user-images.githubusercontent.com/96460163/232307971-066c7790-8bbc-4fa9-b36e-0208361e4233.png" height = "20px" style = "padding-right : 10px; padding-left:10px;"/> </a>
     <li>Gmail    -  <a href = "kartiksingh0412@gmail.com"><img src = "https://user-images.githubusercontent.com/96460163/232307823-da8e6ba1-f4f2-4800-a351-eda94bbdeba6.png" height = "20px" style = "padding-right : 10px; padding-left:10px;"/> </a>
-
+ <li>Check out my Resume!    -  <a href = "https://drive.google.com/file/d/1_dthYhOTuqOKG-wzV8Nu0miBRNJy3r6U/view?usp=sharing">(click) </a>
     </ul>
     
 <h2>🧰 Languages and Tools </h2>
@@ -31,6 +30,13 @@ Hi there, I am Kartik Singh - CSE student at Vellore Institute of Technology
 <img align="left" alt="xampp" height="40px" style="padding-right:10px;padding-left:10px;" src="https://user-images.githubusercontent.com/96460163/232306018-bfbd5877-33e7-4c10-aa42-7cf5e2b25be5.png"/>
 <br><br><br>
 <br><br><br>
-<h2>📈 Statistics </h2>
+<img width="428" alt="image" src="https://github.com/toof04/toof04/assets/96460163/0f30eb9b-0cdb-45a4-a9fa-31b6409ff81b">
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toof04&layout=compact" />
+
+<h2>🏆Achievements </h2>
+
+🟣 2nd position in Sampurna’ 23 – Start up idea competition
+🟣 Web Designing Interschool Competitions:
+- 2nd position in CODE – ‘W3 The People’ Apeejay School Noida
+- 2nd position in Incognito Somerville school Noida
+- 3rd position in E-novators - Webonia Vishwa Bharti public school
